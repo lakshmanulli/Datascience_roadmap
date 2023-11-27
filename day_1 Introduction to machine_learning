@@ -1,0 +1,84 @@
+# Day-1 Introduction to Machine Learning
+    
+    Machine Learning at its most basic is the practice of using algorithms to parse data, learn from it, and then make a determination or prediction about something in the world. 
+
+# Ingredients of Machine Learning
+For any machine learning algorithm to function properly, four ingredients are necessary.
+
+1.Data: Input data provided to the machine learning algorithm
+
+2.Model: machine learning algorithm that we are going to construct
+
+3.Objective Function: measures how close your predicted output to the actual one
+
+4.Optimisation Algorithm: a loop of trials
+
+To explain those terms more quickly, I will explain those ingredients while explaining the types of machine learning.
+
+# Types of Machine Learning
+Depending upon how the learning process takes place for the machine, machine learning is classified into 3 main categories
+ ![Alt text](image.png)
+ 1.Supervised Learning
+
+2.Unsupervised Learning
+
+3.Reinforcement Learning
+
+# Supervised Learning
+Let’s understand supervised learning with the help of a picture
+![Alt text](image-1.png)
+Supervised Learning
+Let’s assume that the person in this picture is you and the robot is your friend, let’s call him Chuck. You are playing with chuck’s “Guess the fruit” game. In this game, you will show chuck some images of fruits, and chuck in turn will guess what that fruit is.
+
+Now let’s understand supervised learning from the below perspectives:
+
+1.Data: Here in this picture, you are holding some images of fruits, that is your data.
+
+2.Model: Your friend Chuck is our model. Technically model can be anything. It is as simple as an algorithm or a function or regression equation as well.
+
+3.Objective Function: This is something that calculates how close Chuck’s result to the actual result
+
+4.Optimisation Algorithm: After playing this game multiple times you decided to upgrade the CPU, RAM, and Image sensor for chuck so that it can see images more clearly and due to faster CPU and RAM can process those images faster. Let’s consider those series of steps as algorithms and this is now our optimization algorithm.
+
+# Unsupervised Learning
+Let’s understand unsupervised learning with the help of a picture
+![Alt text](image-2.png)
+Unsupervised Learning
+You and chuck both enjoyed playing the guess the fruit game. However, you have an important office meeting to catch up. In the meantime to keep chuck occupied you give him another game. This time you placed an image having some fruits on the table and told chuck to classify those fruits and you left for the meeting.
+
+Now Let’s understand unsupervised learning from the below perspectives:
+
+1.Data: Image having various fruits
+
+2.Model: chuck itself 🙂
+
+3.Objective Function: Does chuck classifies the fruits correctly?
+
+4.Optimisation Algorithm: –
+
+Since you are in the meeting, chuck has to play this game on its own. But this time, after seeing those images chuck got confused on how to classify those. chuck now got confused and start to do this activity on its own.
+
+
+## Supervised Learning is classified into Regression and Classification algorithms.
+
+Regression algorithms are used whenever prediction is needed for continuous target variables. Like predicting salary, predicting age, stock market prediction, etc…For example linear regression, Multilinear regression, polynomial regression.
+
+Whereas Classification algorithms are used for the prediction of discrete variables.Like for predicting either True or False, predicting Yes or No, predicting 0 or 1, predicting pass or fail, etc…. for example, logistic regression, Decision Tree, SVM, KNN.
+
+Unsupervised Learning is completely based on clustering. The model will analyze a similar pattern among the input variables and forms cluster. For example, K means clustering, Hierarchical clustering.
+
+Some common basic machine learning algorithms which are used:
+
+1. Simple Linear Regression
+
+2. Multilinear Regression
+
+3. Logistic Regression
+
+4. Decision Tree
+
+5. SVM
+
+6. KNN
+
+7. K Means Clustering
