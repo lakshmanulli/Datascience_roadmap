@@ -1,8 +1,9 @@
 # Datascience_roadmap
-# 6 Months Data Science Roadmap in 2023
+# 6 Months Data Science Roadmap in 2026
+
 1. Python Programming Language
 2. Statistics
-3. Databases
+3. Databases - SQL
 4. Machine learning
 5. Deep learning
 6. Computer vision
